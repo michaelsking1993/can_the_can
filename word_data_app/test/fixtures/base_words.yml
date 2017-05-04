@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  base_word: MyString
+  pos: one
+  frequency: 1
+  language: one
+
+two:
+  base_word: MyString
+  pos: two
+  frequency: 1
+  language: two

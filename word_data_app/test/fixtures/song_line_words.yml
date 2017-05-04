@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  song_word: MyString
+  inflection: one
+  song_line: one
+
+two:
+  song_word: MyString
+  inflection: two
+  song_line: two

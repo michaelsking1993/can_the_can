@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Base word:</strong>
+  <%= @base_word.base_word %>
+</p>
+
+<p>
+  <strong>Pos:</strong>
+  <%= @base_word.pos %>
+</p>
+
+<p>
+  <strong>Frequency:</strong>
+  <%= @base_word.frequency %>
+</p>
+
+<p>
+  <strong>Language:</strong>
+  <%= @base_word.language %>
+</p>
+
+<%= link_to 'Edit', edit_base_word_path(@base_word) %> |
+<%= link_to 'Back', base_words_path %>
