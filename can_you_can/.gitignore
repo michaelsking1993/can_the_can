@@ -19,3 +19,13 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+**/calreact
+**/can_the_can_number_two
+**/enum_grammar
+**/word_data_app
+
+/calreact/*
+/can_the_can_number_two/*
+/enum_grammar/*
+/word_data_app/*
